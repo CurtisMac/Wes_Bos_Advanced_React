@@ -5,23 +5,28 @@
   "pages": {
     "/_app": [
       "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/main.js",
+      "static/webpack/static/runtime/main.js.ae236838f0606b850dfb.hot-update.js"
     ],
     "/_error": [
       "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/index": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/main.js",
+      "static/webpack/static/runtime/main.js.ae236838f0606b850dfb.hot-update.js"
     ],
     "/sell": [
       "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/main.js",
+      "static/webpack/static/runtime/main.js.ae236838f0606b850dfb.hot-update.js"
+    ],
+    "/index": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js",
+      "static/webpack/static/runtime/main.js.ae236838f0606b850dfb.hot-update.js"
     ],
     "/": [
       "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/main.js",
+      "static/webpack/static/runtime/main.js.ae236838f0606b850dfb.hot-update.js"
     ]
   }
 }
