@@ -12,7 +12,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Nav__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Nav */ "./components/Nav.js");
-var _jsxFileName = "C:\\Users\\Curtis\\documents\\coding\\practice\\Advanced-React\\sick-fits\\frontend\\components\\Header.js";
+var _jsxFileName = "C:\\Users\\Curtis\\Documents\\Coding\\Practice\\Advanced-React\\sick-fits\\frontend\\components\\Header.js";
 
 
 
@@ -82,7 +82,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "./node_modules/next/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\Curtis\\documents\\coding\\practice\\Advanced-React\\sick-fits\\frontend\\components\\Meta.js";
+var _jsxFileName = "C:\\Users\\Curtis\\Documents\\Coding\\Practice\\Advanced-React\\sick-fits\\frontend\\components\\Meta.js";
 
 
 
@@ -149,9 +149,9 @@ var Meta = function Meta() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js?1771");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\Curtis\\documents\\coding\\practice\\Advanced-React\\sick-fits\\frontend\\components\\Nav.js";
+var _jsxFileName = "C:\\Users\\Curtis\\Documents\\Coding\\Practice\\Advanced-React\\sick-fits\\frontend\\components\\Nav.js";
 
 
 
@@ -209,7 +209,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Header */ "./components/Header.js");
 /* harmony import */ var _components_Meta__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Meta */ "./components/Meta.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "./node_modules/styled-components/dist/styled-components.browser.esm.js");
-var _jsxFileName = "C:\\Users\\Curtis\\documents\\coding\\practice\\Advanced-React\\sick-fits\\frontend\\components\\Page.js";
+var _jsxFileName = "C:\\Users\\Curtis\\Documents\\Coding\\Practice\\Advanced-React\\sick-fits\\frontend\\components\\Page.js";
 
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -307,14 +307,14 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js?d09d":
-/*!*********************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
-  \*********************************************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
+  \*******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! core-js/library/fn/array/from */ "./node_modules/core-js/library/fn/array/from.js?4024");
+module.exports = __webpack_require__(/*! core-js/library/fn/array/from */ "./node_modules/core-js/library/fn/array/from.js");
 
 /***/ }),
 
@@ -340,25 +340,25 @@ module.exports = __webpack_require__(/*! core-js/library/fn/get-iterator */ "./n
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js?45bd":
-/*!**********************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
-  \**********************************************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
+  \********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! core-js/library/fn/is-iterable */ "./node_modules/core-js/library/fn/is-iterable.js?4cbf");
+module.exports = __webpack_require__(/*! core-js/library/fn/is-iterable */ "./node_modules/core-js/library/fn/is-iterable.js");
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js?0e31":
-/*!*************************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
-  \*************************************************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
+  \***********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! core-js/library/fn/json/stringify */ "./node_modules/core-js/library/fn/json/stringify.js?ca41");
+module.exports = __webpack_require__(/*! core-js/library/fn/json/stringify */ "./node_modules/core-js/library/fn/json/stringify.js");
 
 /***/ }),
 
@@ -522,10 +522,10 @@ module.exports = _arrayWithHoles;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js?82de":
-/*!****************************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js ***!
-  \****************************************************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js ***!
+  \**************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -873,16 +873,16 @@ module.exports = _interopRequireWildcard;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js?0dbc":
-/*!**************************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js ***!
-  \**************************************************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js":
+/*!************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js ***!
+  \************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Array$from = __webpack_require__(/*! ../core-js/array/from */ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js?d09d");
+var _Array$from = __webpack_require__(/*! ../core-js/array/from */ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js");
 
-var _isIterable = __webpack_require__(/*! ../core-js/is-iterable */ "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js?45bd");
+var _isIterable = __webpack_require__(/*! ../core-js/is-iterable */ "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js");
 
 function _iterableToArray(iter) {
   if (_isIterable(Object(iter)) || Object.prototype.toString.call(iter) === "[object Arguments]") return _Array$from(iter);
@@ -946,10 +946,10 @@ module.exports = _nonIterableRest;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js?33d9":
-/*!****************************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js ***!
-  \****************************************************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js ***!
+  \**************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1066,18 +1066,18 @@ module.exports = _slicedToArray;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js?5322":
-/*!****************************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js ***!
-  \****************************************************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js ***!
+  \**************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var arrayWithoutHoles = __webpack_require__(/*! ./arrayWithoutHoles */ "./node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js?82de");
+var arrayWithoutHoles = __webpack_require__(/*! ./arrayWithoutHoles */ "./node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js");
 
-var iterableToArray = __webpack_require__(/*! ./iterableToArray */ "./node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js?0dbc");
+var iterableToArray = __webpack_require__(/*! ./iterableToArray */ "./node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js");
 
-var nonIterableSpread = __webpack_require__(/*! ./nonIterableSpread */ "./node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js?33d9");
+var nonIterableSpread = __webpack_require__(/*! ./nonIterableSpread */ "./node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js");
 
 function _toConsumableArray(arr) {
   return arrayWithoutHoles(arr) || iterableToArray(arr) || nonIterableSpread();
@@ -1130,15 +1130,15 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "./node_modules/
 
 /***/ }),
 
-/***/ "./node_modules/core-js/library/fn/array/from.js?4024":
-/*!*********************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/core-js/library/fn/array/from.js ***!
-  \*********************************************************************************************************************************/
+/***/ "./node_modules/core-js/library/fn/array/from.js":
+/*!*******************************************************!*\
+  !*** ./node_modules/core-js/library/fn/array/from.js ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! ../../modules/es6.string.iterator */ "./node_modules/core-js/library/modules/es6.string.iterator.js");
-__webpack_require__(/*! ../../modules/es6.array.from */ "./node_modules/core-js/library/modules/es6.array.from.js?d855");
+__webpack_require__(/*! ../../modules/es6.array.from */ "./node_modules/core-js/library/modules/es6.array.from.js");
 module.exports = __webpack_require__(/*! ../../modules/_core */ "./node_modules/core-js/library/modules/_core.js").Array.from;
 
 
@@ -1171,24 +1171,24 @@ module.exports = __webpack_require__(/*! ../modules/core.get-iterator */ "./node
 
 /***/ }),
 
-/***/ "./node_modules/core-js/library/fn/is-iterable.js?4cbf":
-/*!**********************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/core-js/library/fn/is-iterable.js ***!
-  \**********************************************************************************************************************************/
+/***/ "./node_modules/core-js/library/fn/is-iterable.js":
+/*!********************************************************!*\
+  !*** ./node_modules/core-js/library/fn/is-iterable.js ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! ../modules/web.dom.iterable */ "./node_modules/core-js/library/modules/web.dom.iterable.js");
 __webpack_require__(/*! ../modules/es6.string.iterator */ "./node_modules/core-js/library/modules/es6.string.iterator.js");
-module.exports = __webpack_require__(/*! ../modules/core.is-iterable */ "./node_modules/core-js/library/modules/core.is-iterable.js?de16");
+module.exports = __webpack_require__(/*! ../modules/core.is-iterable */ "./node_modules/core-js/library/modules/core.is-iterable.js");
 
 
 /***/ }),
 
-/***/ "./node_modules/core-js/library/fn/json/stringify.js?ca41":
-/*!*************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/core-js/library/fn/json/stringify.js ***!
-  \*************************************************************************************************************************************/
+/***/ "./node_modules/core-js/library/fn/json/stringify.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/core-js/library/fn/json/stringify.js ***!
+  \***********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1951,10 +1951,10 @@ if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 
 /***/ }),
 
-/***/ "./node_modules/core-js/library/modules/_create-property.js?3e3d":
-/*!********************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/core-js/library/modules/_create-property.js ***!
-  \********************************************************************************************************************************************/
+/***/ "./node_modules/core-js/library/modules/_create-property.js":
+/*!******************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_create-property.js ***!
+  \******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3765,10 +3765,10 @@ module.exports = __webpack_require__(/*! ./_core */ "./node_modules/core-js/libr
 
 /***/ }),
 
-/***/ "./node_modules/core-js/library/modules/core.is-iterable.js?de16":
-/*!********************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/core-js/library/modules/core.is-iterable.js ***!
-  \********************************************************************************************************************************************/
+/***/ "./node_modules/core-js/library/modules/core.is-iterable.js":
+/*!******************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/core.is-iterable.js ***!
+  \******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3786,10 +3786,10 @@ module.exports = __webpack_require__(/*! ./_core */ "./node_modules/core-js/libr
 
 /***/ }),
 
-/***/ "./node_modules/core-js/library/modules/es6.array.from.js?d855":
-/*!******************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/core-js/library/modules/es6.array.from.js ***!
-  \******************************************************************************************************************************************/
+/***/ "./node_modules/core-js/library/modules/es6.array.from.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/es6.array.from.js ***!
+  \****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3801,7 +3801,7 @@ var toObject = __webpack_require__(/*! ./_to-object */ "./node_modules/core-js/l
 var call = __webpack_require__(/*! ./_iter-call */ "./node_modules/core-js/library/modules/_iter-call.js");
 var isArrayIter = __webpack_require__(/*! ./_is-array-iter */ "./node_modules/core-js/library/modules/_is-array-iter.js");
 var toLength = __webpack_require__(/*! ./_to-length */ "./node_modules/core-js/library/modules/_to-length.js");
-var createProperty = __webpack_require__(/*! ./_create-property */ "./node_modules/core-js/library/modules/_create-property.js?3e3d");
+var createProperty = __webpack_require__(/*! ./_create-property */ "./node_modules/core-js/library/modules/_create-property.js");
 var getIterFn = __webpack_require__(/*! ./core.get-iterator-method */ "./node_modules/core-js/library/modules/core.get-iterator-method.js");
 
 $export($export.S + $export.F * !__webpack_require__(/*! ./_iter-detect */ "./node_modules/core-js/library/modules/_iter-detect.js")(function (iter) { Array.from(iter); }), 'Array', {
@@ -4832,17 +4832,17 @@ for (var i = 0; i < DOMIterables.length; i++) {
 
 /***/ }),
 
-/***/ "./node_modules/define-properties/index.js?1da0":
-/*!***************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/define-properties/index.js ***!
-  \***************************************************************************************************************************/
+/***/ "./node_modules/define-properties/index.js":
+/*!*************************************************!*\
+  !*** ./node_modules/define-properties/index.js ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var keys = __webpack_require__(/*! object-keys */ "./node_modules/object-keys/index.js?d9c2");
+var keys = __webpack_require__(/*! object-keys */ "./node_modules/object-keys/index.js");
 var hasSymbols = typeof Symbol === 'function' && typeof Symbol('foo') === 'symbol';
 
 var toStr = Object.prototype.toString;
@@ -4990,10 +4990,10 @@ module.exports = hyphenateStyleName;
 
 /***/ }),
 
-/***/ "./node_modules/function-bind/implementation.js?3847":
-/*!********************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/function-bind/implementation.js ***!
-  \********************************************************************************************************************************/
+/***/ "./node_modules/function-bind/implementation.js":
+/*!******************************************************!*\
+  !*** ./node_modules/function-bind/implementation.js ***!
+  \******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5054,27 +5054,27 @@ module.exports = function bind(that) {
 
 /***/ }),
 
-/***/ "./node_modules/function-bind/index.js?beec":
-/*!***********************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/function-bind/index.js ***!
-  \***********************************************************************************************************************/
+/***/ "./node_modules/function-bind/index.js":
+/*!*********************************************!*\
+  !*** ./node_modules/function-bind/index.js ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/function-bind/implementation.js?3847");
+var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/function-bind/implementation.js");
 
 module.exports = Function.prototype.bind || implementation;
 
 
 /***/ }),
 
-/***/ "./node_modules/has-symbols/shams.js?1ee3":
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/has-symbols/shams.js ***!
-  \*********************************************************************************************************************/
+/***/ "./node_modules/has-symbols/shams.js":
+/*!*******************************************!*\
+  !*** ./node_modules/has-symbols/shams.js ***!
+  \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5125,17 +5125,17 @@ module.exports = function hasSymbols() {
 
 /***/ }),
 
-/***/ "./node_modules/has/src/index.js?d679":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/has/src/index.js ***!
-  \*****************************************************************************************************************/
+/***/ "./node_modules/has/src/index.js":
+/*!***************************************!*\
+  !*** ./node_modules/has/src/index.js ***!
+  \***************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var bind = __webpack_require__(/*! function-bind */ "./node_modules/function-bind/index.js?beec");
+var bind = __webpack_require__(/*! function-bind */ "./node_modules/function-bind/index.js");
 
 module.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
 
@@ -5557,10 +5557,10 @@ function createUrl(router) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/lib/head.js?c6ad":
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/next/dist/lib/head.js ***!
-  \**********************************************************************************************************************/
+/***/ "./node_modules/next/dist/lib/head.js":
+/*!********************************************!*\
+  !*** ./node_modules/next/dist/lib/head.js ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5593,7 +5593,7 @@ var _react = _interopRequireDefault(__webpack_require__(/*! react */ "./node_mod
 
 var _propTypes = _interopRequireDefault(__webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js"));
 
-var _sideEffect = _interopRequireDefault(__webpack_require__(/*! ./side-effect */ "./node_modules/next/dist/lib/side-effect.js?7d7d"));
+var _sideEffect = _interopRequireDefault(__webpack_require__(/*! ./side-effect */ "./node_modules/next/dist/lib/side-effect.js"));
 
 var Head =
 /*#__PURE__*/
@@ -5712,10 +5712,10 @@ exports.default = _default;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/lib/link.js?6a70":
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/next/dist/lib/link.js ***!
-  \**********************************************************************************************************************/
+/***/ "./node_modules/next/dist/lib/link.js":
+/*!********************************************!*\
+  !*** ./node_modules/next/dist/lib/link.js ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5731,7 +5731,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 
-var _stringify = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/json/stringify */ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js?0e31"));
+var _stringify = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/json/stringify */ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js"));
 
 var _typeof2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/typeof */ "./node_modules/@babel/runtime-corejs2/helpers/typeof.js"));
 
@@ -5938,7 +5938,7 @@ function (_Component) {
 
 if (true) {
   // This module gets removed by webpack.IgnorePlugin
-  var exact = __webpack_require__(/*! prop-types-exact */ "./node_modules/prop-types-exact/build/index.js?67c9");
+  var exact = __webpack_require__(/*! prop-types-exact */ "./node_modules/prop-types-exact/build/index.js");
 
   Link.propTypes = exact({
     href: _propTypes.default.oneOfType([_propTypes.default.string, _propTypes.default.object]).isRequired,
@@ -7264,10 +7264,10 @@ function shallowEquals(a, b) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/lib/side-effect.js?7d7d":
-/*!*****************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/next/dist/lib/side-effect.js ***!
-  \*****************************************************************************************************************************/
+/***/ "./node_modules/next/dist/lib/side-effect.js":
+/*!***************************************************!*\
+  !*** ./node_modules/next/dist/lib/side-effect.js ***!
+  \***************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7297,7 +7297,7 @@ var _assertThisInitialized2 = _interopRequireDefault(__webpack_require__(/*! @ba
 
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/defineProperty */ "./node_modules/@babel/runtime-corejs2/helpers/defineProperty.js"));
 
-var _toConsumableArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/toConsumableArray */ "./node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js?5322"));
+var _toConsumableArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/toConsumableArray */ "./node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js"));
 
 var _set = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/set */ "./node_modules/@babel/runtime-corejs2/core-js/set.js"));
 
@@ -7600,25 +7600,25 @@ function getURL() {
 /***/ }),
 
 /***/ "./node_modules/next/head.js":
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/next/head.js ***!
-  \*************************************************************************************************************/
+/*!***********************************!*\
+  !*** ./node_modules/next/head.js ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! ./dist/lib/head */ "./node_modules/next/dist/lib/head.js?c6ad")
+module.exports = __webpack_require__(/*! ./dist/lib/head */ "./node_modules/next/dist/lib/head.js")
 
 
 /***/ }),
 
-/***/ "./node_modules/next/link.js?1771":
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/next/link.js ***!
-  \*************************************************************************************************************/
+/***/ "./node_modules/next/link.js":
+/*!***********************************!*\
+  !*** ./node_modules/next/link.js ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! ./dist/lib/link */ "./node_modules/next/dist/lib/link.js?6a70")
+module.exports = __webpack_require__(/*! ./dist/lib/link */ "./node_modules/next/dist/lib/link.js")
 
 
 /***/ }),
@@ -8165,10 +8165,10 @@ module.exports = (__webpack_require__(/*! dll-reference dll_5d62d38be3592dca3a42
 
 /***/ }),
 
-/***/ "./node_modules/object-keys/index.js?d9c2":
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/object-keys/index.js ***!
-  \*********************************************************************************************************************/
+/***/ "./node_modules/object-keys/index.js":
+/*!*******************************************!*\
+  !*** ./node_modules/object-keys/index.js ***!
+  \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8179,7 +8179,7 @@ module.exports = (__webpack_require__(/*! dll-reference dll_5d62d38be3592dca3a42
 var has = Object.prototype.hasOwnProperty;
 var toStr = Object.prototype.toString;
 var slice = Array.prototype.slice;
-var isArgs = __webpack_require__(/*! ./isArguments */ "./node_modules/object-keys/isArguments.js?3c9b");
+var isArgs = __webpack_require__(/*! ./isArguments */ "./node_modules/object-keys/isArguments.js");
 var isEnumerable = Object.prototype.propertyIsEnumerable;
 var hasDontEnumBug = !isEnumerable.call({ toString: null }, 'toString');
 var hasProtoEnumBug = isEnumerable.call(function () {}, 'prototype');
@@ -8318,10 +8318,10 @@ module.exports = keysShim;
 
 /***/ }),
 
-/***/ "./node_modules/object-keys/isArguments.js?3c9b":
-/*!***************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/object-keys/isArguments.js ***!
-  \***************************************************************************************************************************/
+/***/ "./node_modules/object-keys/isArguments.js":
+/*!*************************************************!*\
+  !*** ./node_modules/object-keys/isArguments.js ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8347,10 +8347,10 @@ module.exports = function isArguments(value) {
 
 /***/ }),
 
-/***/ "./node_modules/object.assign/implementation.js?b968":
-/*!********************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/object.assign/implementation.js ***!
-  \********************************************************************************************************************************/
+/***/ "./node_modules/object.assign/implementation.js":
+/*!******************************************************!*\
+  !*** ./node_modules/object.assign/implementation.js ***!
+  \******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8358,12 +8358,12 @@ module.exports = function isArguments(value) {
 
 
 // modified from https://github.com/es-shims/es6-shim
-var keys = __webpack_require__(/*! object-keys */ "./node_modules/object-keys/index.js?d9c2");
-var bind = __webpack_require__(/*! function-bind */ "./node_modules/function-bind/index.js?beec");
+var keys = __webpack_require__(/*! object-keys */ "./node_modules/object-keys/index.js");
+var bind = __webpack_require__(/*! function-bind */ "./node_modules/function-bind/index.js");
 var canBeObject = function (obj) {
 	return typeof obj !== 'undefined' && obj !== null;
 };
-var hasSymbols = __webpack_require__(/*! has-symbols/shams */ "./node_modules/has-symbols/shams.js?1ee3")();
+var hasSymbols = __webpack_require__(/*! has-symbols/shams */ "./node_modules/has-symbols/shams.js")();
 var toObject = Object;
 var push = bind.call(Function.call, Array.prototype.push);
 var propIsEnumerable = bind.call(Function.call, Object.prototype.propertyIsEnumerable);
@@ -8400,21 +8400,21 @@ module.exports = function assign(target, source1) {
 
 /***/ }),
 
-/***/ "./node_modules/object.assign/index.js?cbee":
-/*!***********************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/object.assign/index.js ***!
-  \***********************************************************************************************************************/
+/***/ "./node_modules/object.assign/index.js":
+/*!*********************************************!*\
+  !*** ./node_modules/object.assign/index.js ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var defineProperties = __webpack_require__(/*! define-properties */ "./node_modules/define-properties/index.js?1da0");
+var defineProperties = __webpack_require__(/*! define-properties */ "./node_modules/define-properties/index.js");
 
-var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/object.assign/implementation.js?b968");
-var getPolyfill = __webpack_require__(/*! ./polyfill */ "./node_modules/object.assign/polyfill.js?2b32");
-var shim = __webpack_require__(/*! ./shim */ "./node_modules/object.assign/shim.js?003f");
+var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/object.assign/implementation.js");
+var getPolyfill = __webpack_require__(/*! ./polyfill */ "./node_modules/object.assign/polyfill.js");
+var shim = __webpack_require__(/*! ./shim */ "./node_modules/object.assign/shim.js");
 
 var polyfill = getPolyfill();
 
@@ -8429,17 +8429,17 @@ module.exports = polyfill;
 
 /***/ }),
 
-/***/ "./node_modules/object.assign/polyfill.js?2b32":
-/*!**************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/object.assign/polyfill.js ***!
-  \**************************************************************************************************************************/
+/***/ "./node_modules/object.assign/polyfill.js":
+/*!************************************************!*\
+  !*** ./node_modules/object.assign/polyfill.js ***!
+  \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/object.assign/implementation.js?b968");
+var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/object.assign/implementation.js");
 
 var lacksProperEnumerationOrder = function () {
 	if (!Object.assign) {
@@ -8492,18 +8492,18 @@ module.exports = function getPolyfill() {
 
 /***/ }),
 
-/***/ "./node_modules/object.assign/shim.js?003f":
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/object.assign/shim.js ***!
-  \**********************************************************************************************************************/
+/***/ "./node_modules/object.assign/shim.js":
+/*!********************************************!*\
+  !*** ./node_modules/object.assign/shim.js ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var define = __webpack_require__(/*! define-properties */ "./node_modules/define-properties/index.js?1da0");
-var getPolyfill = __webpack_require__(/*! ./polyfill */ "./node_modules/object.assign/polyfill.js?2b32");
+var define = __webpack_require__(/*! define-properties */ "./node_modules/define-properties/index.js");
+var getPolyfill = __webpack_require__(/*! ./polyfill */ "./node_modules/object.assign/polyfill.js");
 
 module.exports = function shimAssign() {
 	var polyfill = getPolyfill();
@@ -8713,10 +8713,10 @@ process.umask = function() { return 0; };
 
 /***/ }),
 
-/***/ "./node_modules/prop-types-exact/build/helpers/isPlainObject.js?6b73":
-/*!************************************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/prop-types-exact/build/helpers/isPlainObject.js ***!
-  \************************************************************************************************************************************************/
+/***/ "./node_modules/prop-types-exact/build/helpers/isPlainObject.js":
+/*!**********************************************************************!*\
+  !*** ./node_modules/prop-types-exact/build/helpers/isPlainObject.js ***!
+  \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8735,10 +8735,10 @@ module.exports = exports['default'];
 
 /***/ }),
 
-/***/ "./node_modules/prop-types-exact/build/index.js?67c9":
-/*!********************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/prop-types-exact/build/index.js ***!
-  \********************************************************************************************************************************/
+/***/ "./node_modules/prop-types-exact/build/index.js":
+/*!******************************************************!*\
+  !*** ./node_modules/prop-types-exact/build/index.js ***!
+  \******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8747,15 +8747,15 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports['default'] = forbidExtraProps;
 
-var _object = __webpack_require__(/*! object.assign */ "./node_modules/object.assign/index.js?cbee");
+var _object = __webpack_require__(/*! object.assign */ "./node_modules/object.assign/index.js");
 
 var _object2 = _interopRequireDefault(_object);
 
-var _has = __webpack_require__(/*! has */ "./node_modules/has/src/index.js?d679");
+var _has = __webpack_require__(/*! has */ "./node_modules/has/src/index.js");
 
 var _has2 = _interopRequireDefault(_has);
 
-var _isPlainObject = __webpack_require__(/*! ./helpers/isPlainObject */ "./node_modules/prop-types-exact/build/helpers/isPlainObject.js?6b73");
+var _isPlainObject = __webpack_require__(/*! ./helpers/isPlainObject */ "./node_modules/prop-types-exact/build/helpers/isPlainObject.js");
 
 var _isPlainObject2 = _interopRequireDefault(_isPlainObject);
 
@@ -15511,9 +15511,9 @@ module.exports = {
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/global.js":
-/*!************************************************!*\
-  !*** ./node_modules/webpack/buildin/global.js ***!
-  \************************************************/
+/*!***********************************!*\
+  !*** (webpack)/buildin/global.js ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15542,9 +15542,9 @@ module.exports = g;
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/harmony-module.js":
-/*!********************************************************!*\
-  !*** ./node_modules/webpack/buildin/harmony-module.js ***!
-  \********************************************************/
+/*!*******************************************!*\
+  !*** (webpack)/buildin/harmony-module.js ***!
+  \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15577,9 +15577,9 @@ module.exports = function(originalModule) {
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/module.js":
-/*!************************************************!*\
-  !*** ./node_modules/webpack/buildin/module.js ***!
-  \************************************************/
+/*!***********************************!*\
+  !*** (webpack)/buildin/module.js ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15623,7 +15623,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_app__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/app */ "./node_modules/next/app.js");
 /* harmony import */ var next_app__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_app__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_Page__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Page */ "./components/Page.js");
-var _jsxFileName = "C:\\Users\\Curtis\\documents\\coding\\practice\\Advanced-React\\sick-fits\\frontend\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\Curtis\\Documents\\Coding\\Practice\\Advanced-React\\sick-fits\\frontend\\pages\\_app.js";
 
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }

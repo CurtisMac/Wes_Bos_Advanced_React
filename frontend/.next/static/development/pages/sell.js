@@ -22,14 +22,14 @@ module.exports = __webpack_require__(/*! core-js/library/fn/get-iterator */ "./n
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js?f499":
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js":
 /*!***********************************************************************!*\
   !*** ./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
   \***********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! core-js/library/fn/json/stringify */ "./node_modules/core-js/library/fn/json/stringify.js?a21f");
+module.exports = __webpack_require__(/*! core-js/library/fn/json/stringify */ "./node_modules/core-js/library/fn/json/stringify.js");
 
 /***/ }),
 
@@ -719,7 +719,7 @@ module.exports = __webpack_require__(/*! ../modules/core.get-iterator */ "./node
 
 /***/ }),
 
-/***/ "./node_modules/core-js/library/fn/json/stringify.js?a21f":
+/***/ "./node_modules/core-js/library/fn/json/stringify.js":
 /*!***********************************************************!*\
   !*** ./node_modules/core-js/library/fn/json/stringify.js ***!
   \***********************************************************/
@@ -4276,7 +4276,7 @@ for (var i = 0; i < DOMIterables.length; i++) {
 
 /***/ }),
 
-/***/ "./node_modules/define-properties/index.js?f367":
+/***/ "./node_modules/define-properties/index.js":
 /*!*************************************************!*\
   !*** ./node_modules/define-properties/index.js ***!
   \*************************************************/
@@ -4286,7 +4286,7 @@ for (var i = 0; i < DOMIterables.length; i++) {
 "use strict";
 
 
-var keys = __webpack_require__(/*! object-keys */ "./node_modules/object-keys/index.js?d6c7");
+var keys = __webpack_require__(/*! object-keys */ "./node_modules/object-keys/index.js");
 var hasSymbols = typeof Symbol === 'function' && typeof Symbol('foo') === 'symbol';
 
 var toStr = Object.prototype.toString;
@@ -4346,7 +4346,7 @@ module.exports = defineProperties;
 
 /***/ }),
 
-/***/ "./node_modules/function-bind/implementation.js?688e":
+/***/ "./node_modules/function-bind/implementation.js":
 /*!******************************************************!*\
   !*** ./node_modules/function-bind/implementation.js ***!
   \******************************************************/
@@ -4410,7 +4410,7 @@ module.exports = function bind(that) {
 
 /***/ }),
 
-/***/ "./node_modules/function-bind/index.js?0f7c":
+/***/ "./node_modules/function-bind/index.js":
 /*!*********************************************!*\
   !*** ./node_modules/function-bind/index.js ***!
   \*********************************************/
@@ -4420,14 +4420,14 @@ module.exports = function bind(that) {
 "use strict";
 
 
-var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/function-bind/implementation.js?688e");
+var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/function-bind/implementation.js");
 
 module.exports = Function.prototype.bind || implementation;
 
 
 /***/ }),
 
-/***/ "./node_modules/has-symbols/shams.js?1696":
+/***/ "./node_modules/has-symbols/shams.js":
 /*!*******************************************!*\
   !*** ./node_modules/has-symbols/shams.js ***!
   \*******************************************/
@@ -4481,7 +4481,7 @@ module.exports = function hasSymbols() {
 
 /***/ }),
 
-/***/ "./node_modules/has/src/index.js?a0d3":
+/***/ "./node_modules/has/src/index.js":
 /*!***************************************!*\
   !*** ./node_modules/has/src/index.js ***!
   \***************************************/
@@ -4491,7 +4491,7 @@ module.exports = function hasSymbols() {
 "use strict";
 
 
-var bind = __webpack_require__(/*! function-bind */ "./node_modules/function-bind/index.js?0f7c");
+var bind = __webpack_require__(/*! function-bind */ "./node_modules/function-bind/index.js");
 
 module.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
 
@@ -4659,7 +4659,7 @@ exports.default = EventEmitter;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/lib/link.js?755d":
+/***/ "./node_modules/next/dist/lib/link.js":
 /*!********************************************!*\
   !*** ./node_modules/next/dist/lib/link.js ***!
   \********************************************/
@@ -4678,7 +4678,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 
-var _stringify = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/json/stringify */ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js?f499"));
+var _stringify = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/json/stringify */ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js"));
 
 var _typeof2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/typeof */ "./node_modules/@babel/runtime-corejs2/helpers/typeof.js"));
 
@@ -4885,7 +4885,7 @@ function (_Component) {
 
 if (true) {
   // This module gets removed by webpack.IgnorePlugin
-  var exact = __webpack_require__(/*! prop-types-exact */ "./node_modules/prop-types-exact/build/index.js?d5c5");
+  var exact = __webpack_require__(/*! prop-types-exact */ "./node_modules/prop-types-exact/build/index.js");
 
   Link.propTypes = exact({
     href: _propTypes.default.oneOfType([_propTypes.default.string, _propTypes.default.object]).isRequired,
@@ -6400,14 +6400,14 @@ function getURL() {
 
 /***/ }),
 
-/***/ "./node_modules/next/link.js?605a":
+/***/ "./node_modules/next/link.js":
 /*!***********************************!*\
   !*** ./node_modules/next/link.js ***!
   \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! ./dist/lib/link */ "./node_modules/next/dist/lib/link.js?755d")
+module.exports = __webpack_require__(/*! ./dist/lib/link */ "./node_modules/next/dist/lib/link.js")
 
 
 /***/ }),
@@ -6954,7 +6954,7 @@ module.exports = (__webpack_require__(/*! dll-reference dll_5d62d38be3592dca3a42
 
 /***/ }),
 
-/***/ "./node_modules/object-keys/index.js?d6c7":
+/***/ "./node_modules/object-keys/index.js":
 /*!*******************************************!*\
   !*** ./node_modules/object-keys/index.js ***!
   \*******************************************/
@@ -6968,7 +6968,7 @@ module.exports = (__webpack_require__(/*! dll-reference dll_5d62d38be3592dca3a42
 var has = Object.prototype.hasOwnProperty;
 var toStr = Object.prototype.toString;
 var slice = Array.prototype.slice;
-var isArgs = __webpack_require__(/*! ./isArguments */ "./node_modules/object-keys/isArguments.js?d4ab");
+var isArgs = __webpack_require__(/*! ./isArguments */ "./node_modules/object-keys/isArguments.js");
 var isEnumerable = Object.prototype.propertyIsEnumerable;
 var hasDontEnumBug = !isEnumerable.call({ toString: null }, 'toString');
 var hasProtoEnumBug = isEnumerable.call(function () {}, 'prototype');
@@ -7107,7 +7107,7 @@ module.exports = keysShim;
 
 /***/ }),
 
-/***/ "./node_modules/object-keys/isArguments.js?d4ab":
+/***/ "./node_modules/object-keys/isArguments.js":
 /*!*************************************************!*\
   !*** ./node_modules/object-keys/isArguments.js ***!
   \*************************************************/
@@ -7136,7 +7136,7 @@ module.exports = function isArguments(value) {
 
 /***/ }),
 
-/***/ "./node_modules/object.assign/implementation.js?16e7":
+/***/ "./node_modules/object.assign/implementation.js":
 /*!******************************************************!*\
   !*** ./node_modules/object.assign/implementation.js ***!
   \******************************************************/
@@ -7147,12 +7147,12 @@ module.exports = function isArguments(value) {
 
 
 // modified from https://github.com/es-shims/es6-shim
-var keys = __webpack_require__(/*! object-keys */ "./node_modules/object-keys/index.js?d6c7");
-var bind = __webpack_require__(/*! function-bind */ "./node_modules/function-bind/index.js?0f7c");
+var keys = __webpack_require__(/*! object-keys */ "./node_modules/object-keys/index.js");
+var bind = __webpack_require__(/*! function-bind */ "./node_modules/function-bind/index.js");
 var canBeObject = function (obj) {
 	return typeof obj !== 'undefined' && obj !== null;
 };
-var hasSymbols = __webpack_require__(/*! has-symbols/shams */ "./node_modules/has-symbols/shams.js?1696")();
+var hasSymbols = __webpack_require__(/*! has-symbols/shams */ "./node_modules/has-symbols/shams.js")();
 var toObject = Object;
 var push = bind.call(Function.call, Array.prototype.push);
 var propIsEnumerable = bind.call(Function.call, Object.prototype.propertyIsEnumerable);
@@ -7189,7 +7189,7 @@ module.exports = function assign(target, source1) {
 
 /***/ }),
 
-/***/ "./node_modules/object.assign/index.js?2a8a":
+/***/ "./node_modules/object.assign/index.js":
 /*!*********************************************!*\
   !*** ./node_modules/object.assign/index.js ***!
   \*********************************************/
@@ -7199,11 +7199,11 @@ module.exports = function assign(target, source1) {
 "use strict";
 
 
-var defineProperties = __webpack_require__(/*! define-properties */ "./node_modules/define-properties/index.js?f367");
+var defineProperties = __webpack_require__(/*! define-properties */ "./node_modules/define-properties/index.js");
 
-var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/object.assign/implementation.js?16e7");
-var getPolyfill = __webpack_require__(/*! ./polyfill */ "./node_modules/object.assign/polyfill.js?c8ba");
-var shim = __webpack_require__(/*! ./shim */ "./node_modules/object.assign/shim.js?f11f");
+var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/object.assign/implementation.js");
+var getPolyfill = __webpack_require__(/*! ./polyfill */ "./node_modules/object.assign/polyfill.js");
+var shim = __webpack_require__(/*! ./shim */ "./node_modules/object.assign/shim.js");
 
 var polyfill = getPolyfill();
 
@@ -7218,7 +7218,7 @@ module.exports = polyfill;
 
 /***/ }),
 
-/***/ "./node_modules/object.assign/polyfill.js?c8ba":
+/***/ "./node_modules/object.assign/polyfill.js":
 /*!************************************************!*\
   !*** ./node_modules/object.assign/polyfill.js ***!
   \************************************************/
@@ -7228,7 +7228,7 @@ module.exports = polyfill;
 "use strict";
 
 
-var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/object.assign/implementation.js?16e7");
+var implementation = __webpack_require__(/*! ./implementation */ "./node_modules/object.assign/implementation.js");
 
 var lacksProperEnumerationOrder = function () {
 	if (!Object.assign) {
@@ -7281,7 +7281,7 @@ module.exports = function getPolyfill() {
 
 /***/ }),
 
-/***/ "./node_modules/object.assign/shim.js?f11f":
+/***/ "./node_modules/object.assign/shim.js":
 /*!********************************************!*\
   !*** ./node_modules/object.assign/shim.js ***!
   \********************************************/
@@ -7291,8 +7291,8 @@ module.exports = function getPolyfill() {
 "use strict";
 
 
-var define = __webpack_require__(/*! define-properties */ "./node_modules/define-properties/index.js?f367");
-var getPolyfill = __webpack_require__(/*! ./polyfill */ "./node_modules/object.assign/polyfill.js?c8ba");
+var define = __webpack_require__(/*! define-properties */ "./node_modules/define-properties/index.js");
+var getPolyfill = __webpack_require__(/*! ./polyfill */ "./node_modules/object.assign/polyfill.js");
 
 module.exports = function shimAssign() {
 	var polyfill = getPolyfill();
@@ -7502,7 +7502,7 @@ process.umask = function() { return 0; };
 
 /***/ }),
 
-/***/ "./node_modules/prop-types-exact/build/helpers/isPlainObject.js?28d0":
+/***/ "./node_modules/prop-types-exact/build/helpers/isPlainObject.js":
 /*!**********************************************************************!*\
   !*** ./node_modules/prop-types-exact/build/helpers/isPlainObject.js ***!
   \**********************************************************************/
@@ -7524,7 +7524,7 @@ module.exports = exports['default'];
 
 /***/ }),
 
-/***/ "./node_modules/prop-types-exact/build/index.js?d5c5":
+/***/ "./node_modules/prop-types-exact/build/index.js":
 /*!******************************************************!*\
   !*** ./node_modules/prop-types-exact/build/index.js ***!
   \******************************************************/
@@ -7536,15 +7536,15 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports['default'] = forbidExtraProps;
 
-var _object = __webpack_require__(/*! object.assign */ "./node_modules/object.assign/index.js?2a8a");
+var _object = __webpack_require__(/*! object.assign */ "./node_modules/object.assign/index.js");
 
 var _object2 = _interopRequireDefault(_object);
 
-var _has = __webpack_require__(/*! has */ "./node_modules/has/src/index.js?a0d3");
+var _has = __webpack_require__(/*! has */ "./node_modules/has/src/index.js");
 
 var _has2 = _interopRequireDefault(_has);
 
-var _isPlainObject = __webpack_require__(/*! ./helpers/isPlainObject */ "./node_modules/prop-types-exact/build/helpers/isPlainObject.js?28d0");
+var _isPlainObject = __webpack_require__(/*! ./helpers/isPlainObject */ "./node_modules/prop-types-exact/build/helpers/isPlainObject.js");
 
 var _isPlainObject2 = _interopRequireDefault(_isPlainObject);
 
@@ -9988,9 +9988,9 @@ module.exports = {
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/global.js":
-/*!************************************************!*\
-  !*** ./node_modules/webpack/buildin/global.js ***!
-  \************************************************/
+/*!***********************************!*\
+  !*** (webpack)/buildin/global.js ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10019,9 +10019,9 @@ module.exports = g;
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/harmony-module.js":
-/*!********************************************************!*\
-  !*** ./node_modules/webpack/buildin/harmony-module.js ***!
-  \********************************************************/
+/*!*******************************************!*\
+  !*** (webpack)/buildin/harmony-module.js ***!
+  \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10054,9 +10054,9 @@ module.exports = function(originalModule) {
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/module.js":
-/*!************************************************!*\
-  !*** ./node_modules/webpack/buildin/module.js ***!
-  \************************************************/
+/*!***********************************!*\
+  !*** (webpack)/buildin/module.js ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10097,9 +10097,9 @@ module.exports = function(module) {
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js?605a");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\Curtis\\documents\\coding\\practice\\Advanced-React\\sick-fits\\frontend\\pages\\sell.js";
+var _jsxFileName = "C:\\Users\\Curtis\\Documents\\Coding\\Practice\\Advanced-React\\sick-fits\\frontend\\pages\\sell.js";
 
 
 
@@ -10142,7 +10142,7 @@ var Sell = function Sell(props) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!*****************************!*\
   !*** multi ./pages/sell.js ***!
   \*****************************/
@@ -10167,5 +10167,5 @@ module.exports = dll_5d62d38be3592dca3a42;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]));;
+},[[3,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=sell.js.map
