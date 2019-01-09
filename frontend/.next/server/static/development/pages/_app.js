@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "./node_modules/next/dist/pages/_app.js":
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/Curtis/Documents/Coding/Practice/Advanced-React/sick-fits/frontend/node_modules/next/dist/pages/_app.js ***!
-  \************************************************************************************************************************/
+/*!**********************************************!*\
+  !*** ./node_modules/next/dist/pages/_app.js ***!
+  \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
