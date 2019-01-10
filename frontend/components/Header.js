@@ -1,6 +1,21 @@
 import Nav from "./Nav";
 import styled from "styled-components";
 import Link from "next/link";
+import Router from "next/router";
+import NProgress from "nprogress";
+
+Router.onRouteChangeStart = () => {
+  NProgress.start();
+  console.log("onRouteChangeStart Triggered");
+};
+Router.onRouteChangeComplete = () => {
+  NProgress.done();
+  console.log("onRouteChangeComplete Triggered");
+};
+Router.onRouteChangeError = () => {
+  NProgress.done();
+  console.log("onRouteChangeError Triggered");
+};
 
 const Logo = styled.h1`
   font-size: 4rem;
@@ -31,11 +46,11 @@ const StyledHeader = styled.header`
       grid-template-columns: 1fr;
       justify-content: center;
     }
-    .sub-bar {
-      display: grid;
-      grid-template-columns: 1fr auto;
-      border-bottom: 1px solid ${props => props.theme.lightGrey};
-    }
+  }
+  .sub-bar {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    border-bottom: 1px solid ${props => props.theme.lightgrey};
   }
 `;
 
